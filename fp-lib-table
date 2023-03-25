@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "FRANZININHO_LAB")(type "KiCad")(uri "${KIPRJMOD}/FRANZININHO_LAB.pretty")(options "")(descr ""))
+)
