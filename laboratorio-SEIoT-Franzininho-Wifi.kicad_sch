@@ -2235,30 +2235,47 @@
     (uuid f558cd02-0750-4483-a87d-f689b061fe06)
   )
 
+  (no_connect (at 45.72 250.19) (uuid 0196fedb-ccd8-438a-972a-6577687c5819))
   (no_connect (at 234.95 36.83) (uuid 04ec2d8f-0a7e-4244-a18f-e81aa98508fe))
   (no_connect (at 285.75 222.25) (uuid 051ad6a0-df0e-460e-8da4-f948e96783b6))
   (no_connect (at 130.81 238.76) (uuid 08b68878-12a1-4ff2-9c85-9c4480c9d0b5))
+  (no_connect (at 140.97 219.71) (uuid 0c1d6065-68c5-4286-b5f3-72a37048bc33))
   (no_connect (at 100.33 226.06) (uuid 11080a68-d4dc-4156-9332-a4ee91bcd49e))
   (no_connect (at 34.29 240.03) (uuid 13f0488c-4efe-4e97-80c9-ad355f76c2f1))
+  (no_connect (at 45.72 207.01) (uuid 1f24207c-5654-4e3f-b089-3322a77c403f))
   (no_connect (at 132.08 210.82) (uuid 2c8e1a34-885c-4857-99b1-9e9e34084d6b))
   (no_connect (at 67.31 227.33) (uuid 317ac1d9-6ed2-4a15-8e98-8917034ea77a))
+  (no_connect (at 77.47 222.25) (uuid 33aa1e45-e9e4-4046-948b-992ba0cd5ae0))
+  (no_connect (at 111.76 234.95) (uuid 3b97d777-fe89-49ab-85d3-0364a877bfa8))
   (no_connect (at 67.31 241.3) (uuid 4887908d-28bd-4678-83a1-8acef1ba32d5))
+  (no_connect (at 140.97 233.68) (uuid 4ad36e53-49a2-4f77-82ef-dc320090f6f7))
+  (no_connect (at 110.49 220.98) (uuid 4d171199-2847-4b85-b63f-76a822f9a98d))
   (no_connect (at 325.12 222.25) (uuid 7143b177-86b9-4c04-91b4-c47c9b6920e9))
+  (no_connect (at 43.18 220.98) (uuid 72e25db1-8b66-4ec7-9625-eb3c1d327da5))
+  (no_connect (at 77.47 236.22) (uuid 750c846e-78b1-40aa-923f-4c00a2ff170d))
   (no_connect (at 35.56 255.27) (uuid 76f05fc8-0618-47cb-966b-14930d15d774))
+  (no_connect (at 78.74 250.19) (uuid 77abe1ab-1d07-46d7-b20e-bcc1d1307397))
+  (no_connect (at 110.49 208.28) (uuid 80a0bb5e-7bcd-4e62-ab46-6ba92f499842))
   (no_connect (at 68.58 255.27) (uuid 81cfb361-d1cb-4925-b66b-928c75ad256c))
   (no_connect (at 35.56 212.09) (uuid 8546f3a2-4f98-45fd-b217-1ce2dbf2a4a7))
   (no_connect (at 157.48 36.83) (uuid 87e320b7-1b17-4bea-97c0-19b17fe49c78))
+  (no_connect (at 44.45 234.95) (uuid 954b95ff-6a82-41d9-be08-f85cd0610a9f))
+  (no_connect (at 241.3 232.41) (uuid 97906b76-bcad-4c67-a2a9-082b5c7836fe))
   (no_connect (at 209.55 36.83) (uuid 9fde8c98-4bda-4071-9ad1-f68bcec593c1))
   (no_connect (at 69.85 213.36) (uuid b2a11259-aca6-4190-b0e7-c28bab4f1c30))
   (no_connect (at 130.81 252.73) (uuid b8bf3f2d-47cf-4fa0-8a0d-efd142c6173b))
+  (no_connect (at 111.76 250.19) (uuid bcfa9a1a-6dd1-432a-b3bc-2fb79d265a7e))
   (no_connect (at 307.34 147.32) (uuid c0d38583-d80d-43a8-83ef-dde7dc039b2d))
   (no_connect (at 101.6 255.27) (uuid c65b827a-10be-4eb3-9d78-146fcb65b2bd))
   (no_connect (at 184.15 36.83) (uuid c7f6bd44-4e84-47a0-997d-d2c1e606c194))
   (no_connect (at 130.81 224.79) (uuid d2fe4270-90e7-4b2f-8a61-e78b17844580))
   (no_connect (at 33.02 226.06) (uuid d3977a32-721b-4f90-9f9f-b80cdb7be7d7))
+  (no_connect (at 140.97 247.65) (uuid d419b05b-7955-4124-9926-5a89a5ec760c))
   (no_connect (at 101.6 240.03) (uuid e142a5f9-4c46-4c43-94db-2e3833ed341e))
   (no_connect (at 100.33 213.36) (uuid e36485a1-2fd6-45c2-b22a-aa5bfcd6a569))
+  (no_connect (at 142.24 205.74) (uuid f173d5be-5e9a-47dd-96e2-c87fb55403d0))
   (no_connect (at 220.98 134.62) (uuid f1756ccd-5e93-4e95-ac54-ae8c90601e38))
+  (no_connect (at 80.01 208.28) (uuid f9481cf5-55d6-48a2-8aff-6daa090c963d))
 
   (wire (pts (xy 144.78 224.79) (xy 144.78 223.52))
     (stroke (width 0) (type default))
@@ -2285,10 +2302,6 @@
   (wire (pts (xy 34.29 250.19) (xy 34.29 247.65))
     (stroke (width 0) (type default))
     (uuid 061228ae-4449-4f24-bb78-3e132fc921ac)
-  )
-  (wire (pts (xy 86.36 250.19) (xy 87.63 250.19))
-    (stroke (width 0) (type default))
-    (uuid 06b1bb28-67ea-4b8b-9417-25ee1e3548df)
   )
   (wire (pts (xy 200.66 219.71) (xy 205.74 219.71))
     (stroke (width 0) (type default))
@@ -2542,10 +2555,6 @@
   (wire (pts (xy 228.6 116.84) (xy 228.6 134.62))
     (stroke (width 0) (type default))
     (uuid 4bb72ae3-4a11-4760-951d-449ad019ef60)
-  )
-  (wire (pts (xy 53.34 207.01) (xy 54.61 207.01))
-    (stroke (width 0) (type default))
-    (uuid 4bbcada5-297c-4455-b47d-839faf7bf9c5)
   )
   (wire (pts (xy 160.02 46.99) (xy 157.48 46.99))
     (stroke (width 0) (type default))
@@ -4198,7 +4207,7 @@
     )
     (pin "1" (uuid ef99da7a-4c99-450d-a1e5-29632f9b607c))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "#PWR0103") (unit 1)
         )
@@ -4224,60 +4233,9 @@
     (pin "1" (uuid 3cb76967-6112-418d-8703-e19c4453e347))
     (pin "2" (uuid d35f2892-8f11-467e-9965-1dd2906bd006))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "R3") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "Device:R") (at 48.26 234.95 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid 01676fa9-b0f2-4df9-9b6e-ea3d0fc63aea)
-    (property "Reference" "R15" (at 48.26 236.22 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Value" "R" (at 49.5299 232.41 0)
-      (effects (font (size 1.27 1.27)) (justify left) hide)
-    )
-    (property "Footprint" "Resistor_SMD:R_0805_2012Metric" (at 48.26 236.728 90)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 48.26 234.95 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid fe79a408-382a-4807-ad81-e4b744503d2e))
-    (pin "2" (uuid 88f92b49-dae4-4015-9e78-aad44686acef))
-    (instances
-      (project "franzininho_lab"
-        (path "/51ca0299-91f3-4552-9496-d5578a620793"
-          (reference "R15") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "power:GND") (at 149.86 205.74 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid 01aaf20c-6574-47ec-a2e2-24c4d75a2f8f)
-    (property "Reference" "#PWR030" (at 156.21 205.74 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Value" "GND" (at 148.59 203.2 90)
-      (effects (font (size 1.27 1.27)) (justify right))
-    )
-    (property "Footprint" "" (at 149.86 205.74 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 149.86 205.74 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 1aaa7acc-2888-4eda-9710-61c35d13079b))
-    (instances
-      (project "franzininho_lab"
-        (path "/51ca0299-91f3-4552-9496-d5578a620793"
-          (reference "#PWR030") (unit 1)
         )
       )
     )
@@ -4301,7 +4259,7 @@
     (pin "1" (uuid 4752a25e-8f7a-4276-a337-f9bee4b9e1a2))
     (pin "2" (uuid 675f4e2d-f0d6-4716-8332-b7e328f41b8f))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "EnableD0") (unit 1)
         )
@@ -4329,35 +4287,9 @@
     (pin "3" (uuid d4cff6ef-5c3f-4ea7-a7eb-e627f901af92))
     (pin "4" (uuid e7749d87-ae8e-4be5-9395-9aa693895ec8))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "SW10") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "Device:R") (at 114.3 208.28 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid 056e5804-a507-4c92-92b8-b460fa4992f0)
-    (property "Reference" "R21" (at 114.3 209.55 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Value" "R" (at 115.5699 205.74 0)
-      (effects (font (size 1.27 1.27)) (justify left) hide)
-    )
-    (property "Footprint" "Resistor_SMD:R_0805_2012Metric" (at 114.3 210.058 90)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 114.3 208.28 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid c6b28053-e2c5-4f49-b306-2fcc8a725860))
-    (pin "2" (uuid d941b6a7-ff34-4aec-9ca6-496e6d9efe60))
-    (instances
-      (project "franzininho_lab"
-        (path "/51ca0299-91f3-4552-9496-d5578a620793"
-          (reference "R21") (unit 1)
         )
       )
     )
@@ -4381,7 +4313,7 @@
     (pin "1" (uuid fcaa3187-8989-4bf3-8334-fb8c43e67963))
     (pin "2" (uuid d46b27e5-1fb1-4b6c-8727-ab4035432e3a))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "R1") (unit 1)
         )
@@ -4407,7 +4339,7 @@
     (pin "1" (uuid 60da0db8-a985-4e4f-aada-817cbf03a884))
     (pin "2" (uuid a2194409-f789-48ce-908d-c4ff68500438))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "R6") (unit 1)
         )
@@ -4432,7 +4364,7 @@
     )
     (pin "1" (uuid 406861d1-5a9f-4ee4-83f5-dc35a5176873))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "#PWR035") (unit 1)
         )
@@ -4457,7 +4389,7 @@
     )
     (pin "1" (uuid 0b7e838f-0887-465a-9d50-39fe492dcf58))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "#PWR06") (unit 1)
         )
@@ -4483,34 +4415,9 @@
     (pin "1" (uuid 5076c1ba-64d5-4bd4-8167-c1b9fcc68709))
     (pin "2" (uuid 538988e5-2245-4ef5-897f-2629d1bf8b0a))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "EnableDB1") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "power:GND") (at 54.61 207.01 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid 0b7c553d-b64f-49f6-906b-6c90ccdb894e)
-    (property "Reference" "#PWR015" (at 60.96 207.01 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Value" "GND" (at 52.07 209.55 90)
-      (effects (font (size 1.27 1.27)) (justify right))
-    )
-    (property "Footprint" "" (at 54.61 207.01 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 54.61 207.01 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 99ebfd1e-567b-4d70-86f6-d2e585cfe66d))
-    (instances
-      (project "franzininho_lab"
-        (path "/51ca0299-91f3-4552-9496-d5578a620793"
-          (reference "#PWR015") (unit 1)
         )
       )
     )
@@ -4533,7 +4440,7 @@
     )
     (pin "1" (uuid 7840746f-6bb9-4c86-b9f9-9968774fab89))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "#PWR050") (unit 1)
         )
@@ -4558,7 +4465,7 @@
     )
     (pin "1" (uuid 178bd041-e671-43b0-adf1-352f8929d2e4))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "#PWR0111") (unit 1)
         )
@@ -4584,7 +4491,7 @@
     (pin "1" (uuid e8070738-336d-4659-9284-d0047a3d406a))
     (pin "2" (uuid 137d39b5-5a40-4e33-93d9-eb84c909c2a6))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "Enable52") (unit 1)
         )
@@ -4610,7 +4517,7 @@
     (pin "1" (uuid 4bd4ba73-c054-4dcf-a717-a7b7415ff606))
     (pin "2" (uuid fdb4f163-da9c-42e9-808b-2ad0d4e93c4a))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "Enable1") (unit 1)
         )
@@ -4638,7 +4545,7 @@
     (pin "3" (uuid ee5aca71-d2c6-4be5-ae46-22f7ef170e55))
     (pin "4" (uuid c39f7b6e-3562-444e-b748-e39961234634))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "SW11") (unit 1)
         )
@@ -4664,60 +4571,9 @@
     (pin "1" (uuid b9b53fc2-4727-4f40-a7ea-57df97e58793))
     (pin "2" (uuid 3cc52b29-6335-4f1f-87da-e2687046e5e4))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "EnableE9") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "Device:R") (at 144.78 219.71 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid 14a3154b-9ca8-4b55-92c6-0e117f46be48)
-    (property "Reference" "R25" (at 144.78 220.98 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Value" "R" (at 146.0499 217.17 0)
-      (effects (font (size 1.27 1.27)) (justify left) hide)
-    )
-    (property "Footprint" "Resistor_SMD:R_0805_2012Metric" (at 144.78 221.488 90)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 144.78 219.71 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid ef668511-0b7e-4790-aef3-571bf585522a))
-    (pin "2" (uuid 98d92582-a467-4168-a52c-9a4909724e0d))
-    (instances
-      (project "franzininho_lab"
-        (path "/51ca0299-91f3-4552-9496-d5578a620793"
-          (reference "R25") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "power:GND") (at 148.59 219.71 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid 1651c8a3-90d0-41bd-a13e-23e0eb1f49a4)
-    (property "Reference" "#PWR027" (at 154.94 219.71 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Value" "GND" (at 146.05 222.25 90)
-      (effects (font (size 1.27 1.27)) (justify right))
-    )
-    (property "Footprint" "" (at 148.59 219.71 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 148.59 219.71 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 25943796-9497-429c-b4e5-a3b0e7b572b1))
-    (instances
-      (project "franzininho_lab"
-        (path "/51ca0299-91f3-4552-9496-d5578a620793"
-          (reference "#PWR027") (unit 1)
         )
       )
     )
@@ -4741,34 +4597,9 @@
     (pin "1" (uuid c31aa3c0-bc26-4cb8-adf1-4140adcf4fd5))
     (pin "2" (uuid 8ca10c68-fc0a-4171-922e-16a58fc74e05))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "EnableB3") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "power:GND") (at 50.8 220.98 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid 1940ab13-4f6f-4541-b266-ee056ac3672a)
-    (property "Reference" "#PWR016" (at 57.15 220.98 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Value" "GND" (at 48.26 223.52 90)
-      (effects (font (size 1.27 1.27)) (justify right))
-    )
-    (property "Footprint" "" (at 50.8 220.98 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 50.8 220.98 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid cd377d7d-d10d-403d-b28f-f001d517f312))
-    (instances
-      (project "franzininho_lab"
-        (path "/51ca0299-91f3-4552-9496-d5578a620793"
-          (reference "#PWR016") (unit 1)
         )
       )
     )
@@ -4792,7 +4623,7 @@
     (pin "1" (uuid ca319141-8285-431f-a1e2-c9d6cd01d4be))
     (pin "2" (uuid b0e98125-2e1e-4944-9710-006a8b1bc013))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "EnableD9") (unit 1)
         )
@@ -4818,7 +4649,7 @@
     (pin "1" (uuid be9f4349-acf8-43da-8542-76e5e7b30269))
     (pin "2" (uuid a13cd083-8b78-49d0-a665-b17d084f5002))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "EnableA4") (unit 1)
         )
@@ -4843,7 +4674,7 @@
     )
     (pin "1" (uuid aa890336-692b-42de-a3c8-f80d3ce79e57))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "#PWR048") (unit 1)
         )
@@ -4869,7 +4700,7 @@
     (pin "1" (uuid f5690e99-d62c-4f7a-bc6f-a36caae059f2))
     (pin "2" (uuid 15e282d9-237c-4468-9271-2d74bac24b83))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "EnableD7") (unit 1)
         )
@@ -4895,7 +4726,7 @@
     (pin "1" (uuid 609ed94a-af5f-4d20-a8fc-95d1e661690d))
     (pin "2" (uuid e76e8f9d-1081-436f-9b68-b83d996b8820))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "R9") (unit 1)
         )
@@ -4920,7 +4751,7 @@
     )
     (pin "1" (uuid 1a4eb977-790d-40e0-b24c-e2ba9164c321))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "#PWR054") (unit 1)
         )
@@ -4946,35 +4777,9 @@
     (pin "1" (uuid b2b31b2a-ca07-4922-b52c-24a2b6cd57d8))
     (pin "2" (uuid 8f474ec2-5caa-4db1-ad62-0d8e6a315ca7))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "EnableB8") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "Device:R") (at 82.55 250.19 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid 219e77e2-e5a6-443e-8955-a633beabc978)
-    (property "Reference" "R19" (at 82.55 251.46 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Value" "R" (at 83.8199 247.65 0)
-      (effects (font (size 1.27 1.27)) (justify left) hide)
-    )
-    (property "Footprint" "Resistor_SMD:R_0805_2012Metric" (at 82.55 251.968 90)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 82.55 250.19 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid ab9c8b0f-30d7-4488-8fb6-c267f1f9b274))
-    (pin "2" (uuid 67bdadd7-2f12-440d-9702-00e7b879c90b))
-    (instances
-      (project "franzininho_lab"
-        (path "/51ca0299-91f3-4552-9496-d5578a620793"
-          (reference "R19") (unit 1)
         )
       )
     )
@@ -4997,7 +4802,7 @@
     )
     (pin "1" (uuid c15dcd2c-794f-4a78-b1fb-1aa83a64c934))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "#PWR062") (unit 1)
         )
@@ -5022,7 +4827,7 @@
     )
     (pin "1" (uuid 0298d918-ed38-437d-b8a4-55e01e992a7b))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "#PWR0105") (unit 1)
         )
@@ -5048,7 +4853,7 @@
     (pin "1" (uuid 5cc00687-1814-4bd0-9795-49303deac981))
     (pin "2" (uuid e7829438-aff3-4607-a0c4-8106441af9ee))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "Enable30") (unit 1)
         )
@@ -5074,7 +4879,7 @@
     (pin "1" (uuid 44acdf65-479f-4e82-a293-fe8795358a13))
     (pin "2" (uuid e4333480-c1c3-47ad-b11c-3547a54360ec))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "EnableD6") (unit 1)
         )
@@ -5102,34 +4907,9 @@
     (pin "3" (uuid d5f29cc7-378a-4d53-a16f-9e8fd5eb84ab))
     (pin "4" (uuid 61f50e34-0681-433a-bb6e-3c0fe86ac9c4))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "SW14") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "power:GND") (at 87.63 250.19 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid 27dcba14-96ae-4a5b-a1c1-f0ff7a4d411e)
-    (property "Reference" "#PWR022" (at 93.98 250.19 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Value" "GND" (at 85.09 252.73 90)
-      (effects (font (size 1.27 1.27)) (justify right))
-    )
-    (property "Footprint" "" (at 87.63 250.19 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 87.63 250.19 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid a72981fe-5378-4d02-9981-e60c8edd017d))
-    (instances
-      (project "franzininho_lab"
-        (path "/51ca0299-91f3-4552-9496-d5578a620793"
-          (reference "#PWR022") (unit 1)
         )
       )
     )
@@ -5153,7 +4933,7 @@
     (pin "1" (uuid f5b11742-f906-4e71-ae9d-9c8d359d112f))
     (pin "2" (uuid 4689166e-8ea5-4a65-87a3-6f9c1b73047a))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "R2") (unit 1)
         )
@@ -5179,7 +4959,7 @@
     (pin "1" (uuid 5d9d496a-388e-4c6e-a218-de7691e9bf1e))
     (pin "2" (uuid 8263f7e6-a8fb-423c-b5d4-60b98007f118))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "EnableB2") (unit 1)
         )
@@ -5205,35 +4985,9 @@
     (pin "1" (uuid 090ba9b9-e91a-477e-be1b-ddf2a10280f2))
     (pin "2" (uuid 3bcabe89-faf6-45c2-bbfa-37feaac329ac))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "EnableA2") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "Device:R") (at 115.57 250.19 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid 2e75e6ce-862c-4db7-b3a3-900c3c728bed)
-    (property "Reference" "R24" (at 115.57 251.46 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Value" "R" (at 116.8399 247.65 0)
-      (effects (font (size 1.27 1.27)) (justify left) hide)
-    )
-    (property "Footprint" "Resistor_SMD:R_0805_2012Metric" (at 115.57 251.968 90)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 115.57 250.19 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 6d293ffa-aae9-4969-b1c5-18e302e8b933))
-    (pin "2" (uuid f77215c9-3e0e-4bcd-bc7b-3cd36ef1b21d))
-    (instances
-      (project "franzininho_lab"
-        (path "/51ca0299-91f3-4552-9496-d5578a620793"
-          (reference "R24") (unit 1)
         )
       )
     )
@@ -5256,7 +5010,7 @@
     )
     (pin "1" (uuid bc096656-80df-4fe0-ab5f-f95fca04cda3))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "#PWR0107") (unit 1)
         )
@@ -5281,7 +5035,7 @@
     )
     (pin "1" (uuid 745cb702-d6f0-4c3d-808e-9ac5038d156d))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "#PWR057") (unit 1)
         )
@@ -5306,7 +5060,7 @@
     )
     (pin "1" (uuid 72d96949-2175-4d5f-be79-8ce30a823664))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "#PWR063") (unit 1)
         )
@@ -5332,7 +5086,7 @@
     (pin "1" (uuid 5d10d16a-ffa8-4c3c-84dc-d9c601de85bd))
     (pin "2" (uuid 9242a97b-1d8e-4ef9-82c3-e2a53870381b))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "D2") (unit 1)
         )
@@ -5357,7 +5111,7 @@
     )
     (pin "1" (uuid 8fa626db-ceab-43c8-a2b2-b9dcb36cf93e))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "#PWR0115") (unit 1)
         )
@@ -5383,7 +5137,7 @@
     (pin "1" (uuid 983b7847-031e-424c-9103-300fe00b6490))
     (pin "2" (uuid 6ae8d9cb-f77f-4c23-a8f3-d3bd1cc49f3b))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "ConectoresExternos1") (unit 1)
         )
@@ -5408,7 +5162,7 @@
     )
     (pin "1" (uuid 28dbb748-43aa-4a29-91e5-7931786d25f2))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "#PWR02") (unit 1)
         )
@@ -5434,7 +5188,7 @@
     (pin "1" (uuid 91a71bb2-43be-4c76-a72c-d53e20d2237d))
     (pin "2" (uuid 98c541de-f75b-40ad-b6e0-6bee239a06ad))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "Enable2") (unit 1)
         )
@@ -5459,7 +5213,7 @@
     )
     (pin "1" (uuid 62e42393-6506-4829-95be-84ebce41a8f5))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "#PWR0104") (unit 1)
         )
@@ -5485,7 +5239,7 @@
     (pin "1" (uuid 7f9efd71-16a4-478d-a05b-401aae1215ec))
     (pin "2" (uuid 816dd372-c3ed-45d2-8b0a-36e312769c51))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "EnableE3") (unit 1)
         )
@@ -5510,7 +5264,7 @@
     )
     (pin "1" (uuid d3ec0ec0-9e13-42c2-ba00-8490684f4cad))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "#PWR049") (unit 1)
         )
@@ -5536,7 +5290,7 @@
     (pin "1" (uuid 22365fe6-fe19-446a-b433-4f5cccf147a1))
     (pin "2" (uuid bfa0a23e-dd9b-4199-8d56-b8cac18fcd2d))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "EnableA5") (unit 1)
         )
@@ -5564,35 +5318,9 @@
     (pin "3" (uuid 50288622-e96f-4d3a-85ec-3d3aaa60953b))
     (pin "4" (uuid b3f77780-8084-4e6c-85a4-8f26fa69a527))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "SW16") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "Device:R") (at 46.99 220.98 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid 3edeabfd-947a-499a-9484-7aec8a44c189)
-    (property "Reference" "R14" (at 46.99 222.25 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Value" "R" (at 48.2599 218.44 0)
-      (effects (font (size 1.27 1.27)) (justify left) hide)
-    )
-    (property "Footprint" "Resistor_SMD:R_0805_2012Metric" (at 46.99 222.758 90)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 46.99 220.98 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid a0650ffc-5dfa-4d77-a480-6c3db3d43310))
-    (pin "2" (uuid a36e2495-8ff7-4289-bb7f-253b7ac97b98))
-    (instances
-      (project "franzininho_lab"
-        (path "/51ca0299-91f3-4552-9496-d5578a620793"
-          (reference "R14") (unit 1)
         )
       )
     )
@@ -5618,35 +5346,9 @@
     (pin "3" (uuid 889e8b62-6d4a-4401-95e3-eb553cbc3ed0))
     (pin "4" (uuid 0437b03c-c451-4f7c-9570-4078fdd4f4e1))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "SW19") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "Device:R") (at 144.78 233.68 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid 40463371-0354-4d36-af4c-4f3ba2c2642b)
-    (property "Reference" "R26" (at 144.78 234.95 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Value" "R" (at 146.0499 231.14 0)
-      (effects (font (size 1.27 1.27)) (justify left) hide)
-    )
-    (property "Footprint" "Resistor_SMD:R_0805_2012Metric" (at 144.78 235.458 90)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 144.78 233.68 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid dcba9974-e45d-4f64-91da-c7d1a98d531a))
-    (pin "2" (uuid 646be13b-f43f-43c4-87a2-734a3eb99aa7))
-    (instances
-      (project "franzininho_lab"
-        (path "/51ca0299-91f3-4552-9496-d5578a620793"
-          (reference "R26") (unit 1)
         )
       )
     )
@@ -5670,7 +5372,7 @@
     (pin "1" (uuid 529bb7c3-efc3-4b08-8b3f-9e36055cf25a))
     (pin "2" (uuid c8a302cf-f290-41de-9b52-d0ab2396a6d7))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "EnableD5") (unit 1)
         )
@@ -5697,7 +5399,7 @@
     (pin "2" (uuid 03f5c519-4fa4-4d28-8832-2180cfbc85d4))
     (pin "3" (uuid 742763e5-1056-4484-b01d-c22041f74020))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "POT1") (unit 1)
         )
@@ -5722,35 +5424,9 @@
     )
     (pin "1" (uuid fda602dc-8d5a-46c8-a072-019060156532))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "#PWR066") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "Device:R") (at 114.3 220.98 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid 434dc670-b3a5-41f2-a3bc-03f166455623)
-    (property "Reference" "R22" (at 114.3 222.25 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Value" "R" (at 115.5699 218.44 0)
-      (effects (font (size 1.27 1.27)) (justify left) hide)
-    )
-    (property "Footprint" "Resistor_SMD:R_0805_2012Metric" (at 114.3 222.758 90)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 114.3 220.98 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 9115a778-1b2d-4bc8-a9f9-804c24e62f34))
-    (pin "2" (uuid 014b7a43-a732-4d31-a259-8dbcf3d067e3))
-    (instances
-      (project "franzininho_lab"
-        (path "/51ca0299-91f3-4552-9496-d5578a620793"
-          (reference "R22") (unit 1)
         )
       )
     )
@@ -5773,7 +5449,7 @@
     )
     (pin "1" (uuid 74734eab-5a82-4bcb-9945-47c1b22720f0))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "#PWR0108") (unit 1)
         )
@@ -5799,7 +5475,7 @@
     (pin "1" (uuid 8aa3415c-5085-44b6-82a3-7db0237c077f))
     (pin "2" (uuid 2a1aefe3-c72d-4b05-a44c-67fd6e891716))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "Buzzer1") (unit 1)
         )
@@ -5825,34 +5501,9 @@
     (pin "1" (uuid 4859388e-6d37-47ee-9fb5-24f538bfd8b6))
     (pin "2" (uuid 258cde43-f341-4fb6-8450-9fc6f6b35e55))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "EnableA9") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "power:GND") (at 85.09 236.22 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid 456970ae-4fcf-4167-a3d6-17d9b2d51468)
-    (property "Reference" "#PWR020" (at 91.44 236.22 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Value" "GND" (at 82.55 238.76 90)
-      (effects (font (size 1.27 1.27)) (justify right))
-    )
-    (property "Footprint" "" (at 85.09 236.22 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 85.09 236.22 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid d01a4547-52fb-4aa3-b56a-3e67e18f082c))
-    (instances
-      (project "franzininho_lab"
-        (path "/51ca0299-91f3-4552-9496-d5578a620793"
-          (reference "#PWR020") (unit 1)
         )
       )
     )
@@ -5876,7 +5527,7 @@
     (pin "1" (uuid d2049ae5-b407-4ed9-a1c7-0f64ae857f72))
     (pin "2" (uuid 57c54bdb-f67b-46c4-ab41-225188706d02))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "Enable0") (unit 1)
         )
@@ -5901,7 +5552,7 @@
     )
     (pin "1" (uuid f7c883b3-4da0-4f9c-84d8-26db687eac5e))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "#PWR053") (unit 1)
         )
@@ -5929,7 +5580,7 @@
     (pin "3" (uuid daeed63e-5bdd-4fb9-be80-88c1627edb3a))
     (pin "4" (uuid df47f5ca-1008-45b0-9c4d-fb4d9a3f1b39))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "SW6") (unit 1)
         )
@@ -5955,7 +5606,7 @@
     (pin "1" (uuid d505da23-f466-4205-a05e-6e5f2431024c))
     (pin "2" (uuid e3ee77b8-ef2d-4598-a716-1640291d11c0))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "FonteExterna2") (unit 1)
         )
@@ -5980,7 +5631,7 @@
     )
     (pin "1" (uuid 5cd2be74-7bee-462a-a146-43b2c571b1b4))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "#PWR056") (unit 1)
         )
@@ -6006,7 +5657,7 @@
     (pin "1" (uuid bba823f6-b48e-464a-a0d0-f816bcdc2fe6))
     (pin "2" (uuid cad0c9ea-c361-4ad5-ab23-92183b235b46))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "EnableB6") (unit 1)
         )
@@ -6031,7 +5682,7 @@
     )
     (pin "1" (uuid f85aa483-4798-4e32-89d9-142d64b56212))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "#PWR0117") (unit 1)
         )
@@ -6056,34 +5707,9 @@
     )
     (pin "1" (uuid d1671494-37b3-48e0-b8b9-f5ba5e165c9c))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "#PWR0106") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "power:GND") (at 241.3 232.41 180) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid 588bcb46-b43c-4274-95b7-95ba14aff154)
-    (property "Reference" "#PWR055" (at 241.3 226.06 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Value" "GND" (at 241.3 227.33 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Footprint" "" (at 241.3 232.41 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 241.3 232.41 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid cc47c379-b2c2-47b6-b2a6-29a76cd90378))
-    (instances
-      (project "franzininho_lab"
-        (path "/51ca0299-91f3-4552-9496-d5578a620793"
-          (reference "#PWR055") (unit 1)
         )
       )
     )
@@ -6107,7 +5733,7 @@
     (pin "1" (uuid cabe69cf-f45a-4197-b190-e1453d13e8ff))
     (pin "2" (uuid a681ea41-18fb-4fb4-99b5-ddf1e98af842))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "R4") (unit 1)
         )
@@ -6133,35 +5759,9 @@
     (pin "1" (uuid 7699ee36-44dc-4fd6-8044-334e54412b1b))
     (pin "2" (uuid 8fc76882-0211-4019-85ab-635038b55044))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "PeçaExterna1") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "Device:R") (at 81.28 222.25 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid 5d745c25-dcbd-4e2f-a597-b00629fe29a6)
-    (property "Reference" "R17" (at 81.28 223.52 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Value" "R" (at 82.5499 219.71 0)
-      (effects (font (size 1.27 1.27)) (justify left) hide)
-    )
-    (property "Footprint" "Resistor_SMD:R_0805_2012Metric" (at 81.28 224.028 90)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 81.28 222.25 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid cf143be8-179c-4b4d-8fc6-895c38ffd77b))
-    (pin "2" (uuid 5d9d793f-a4ac-41fd-bb51-d41849f116c9))
-    (instances
-      (project "franzininho_lab"
-        (path "/51ca0299-91f3-4552-9496-d5578a620793"
-          (reference "R17") (unit 1)
         )
       )
     )
@@ -6187,7 +5787,7 @@
     (pin "3" (uuid d6420a15-1fde-4096-9b27-bfb09df855e3))
     (pin "4" (uuid 1ae49cd8-9049-436b-9a1d-9d064ab89115))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "SW5") (unit 1)
         )
@@ -6213,7 +5813,7 @@
     (pin "1" (uuid b8349c08-6e6c-4bab-98e2-a60ec2b14288))
     (pin "2" (uuid 26720170-13c3-4d6b-a2e2-9f35ab07c370))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "EnableA0") (unit 1)
         )
@@ -6238,34 +5838,9 @@
     )
     (pin "1" (uuid e808c49d-cf6d-47f3-93d6-41191ea931a5))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "#PWR0118") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "power:GND") (at 53.34 250.19 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid 629c8fb1-0355-4b8e-bd42-246b218610e9)
-    (property "Reference" "#PWR018" (at 59.69 250.19 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Value" "GND" (at 50.8 252.73 90)
-      (effects (font (size 1.27 1.27)) (justify right))
-    )
-    (property "Footprint" "" (at 53.34 250.19 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 53.34 250.19 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 26c32f41-0cca-4d4a-a00a-501316035f3d))
-    (instances
-      (project "franzininho_lab"
-        (path "/51ca0299-91f3-4552-9496-d5578a620793"
-          (reference "#PWR018") (unit 1)
         )
       )
     )
@@ -6291,35 +5866,9 @@
     (pin "3" (uuid 4ccf4371-abbf-4fee-a67f-7f21fd50c627))
     (pin "4" (uuid ad3bd6b2-1fdd-4519-8b6c-b2f57be38c49))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "LED5") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "Device:R") (at 49.53 250.19 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid 63665576-a5c3-4ebd-ade2-d44be50634e7)
-    (property "Reference" "R16" (at 49.53 251.46 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Value" "R" (at 50.7999 247.65 0)
-      (effects (font (size 1.27 1.27)) (justify left) hide)
-    )
-    (property "Footprint" "Resistor_SMD:R_0805_2012Metric" (at 49.53 251.968 90)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 49.53 250.19 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 76b307a3-dd1d-447c-b4ee-7451d8ee33ff))
-    (pin "2" (uuid 1714b673-63bc-421b-be0b-3071be294e1f))
-    (instances
-      (project "franzininho_lab"
-        (path "/51ca0299-91f3-4552-9496-d5578a620793"
-          (reference "R16") (unit 1)
         )
       )
     )
@@ -6343,7 +5892,7 @@
     (pin "1" (uuid a2b0a05c-5cf5-4456-a140-a4d5de339e6c))
     (pin "2" (uuid fac50bb3-fa90-4071-b026-7a5845784428))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "EnableB7") (unit 1)
         )
@@ -6368,7 +5917,7 @@
     )
     (pin "1" (uuid 87d4e5bf-933f-4f78-bc0a-72ec3cf02948))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "#PWR05") (unit 1)
         )
@@ -6396,7 +5945,7 @@
     (pin "3" (uuid e2431468-35c0-4605-af68-8ddb0d82cbed))
     (pin "4" (uuid e530e4b2-2993-4079-9619-7b4d495143c4))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "Jumpers2") (unit 1)
         )
@@ -6424,34 +5973,9 @@
     (pin "3" (uuid fad91493-2939-4842-aee5-7657eb7aeb44))
     (pin "4" (uuid c1fb3fab-c830-4461-b7d7-25e17080293b))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "SW13") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "power:GND") (at 118.11 208.28 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid 6771ce2b-33b5-4d20-9302-a6e21ea6d1b4)
-    (property "Reference" "#PWR023" (at 124.46 208.28 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Value" "GND" (at 115.57 210.82 90)
-      (effects (font (size 1.27 1.27)) (justify right))
-    )
-    (property "Footprint" "" (at 118.11 208.28 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 118.11 208.28 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 8534bd6c-26e9-42f9-b5af-d118efffd1ec))
-    (instances
-      (project "franzininho_lab"
-        (path "/51ca0299-91f3-4552-9496-d5578a620793"
-          (reference "#PWR023") (unit 1)
         )
       )
     )
@@ -6475,7 +5999,7 @@
     (pin "1" (uuid 2135ed7d-812c-4ca6-a993-b064b24b9998))
     (pin "2" (uuid efe7b9ff-c8db-45cb-aeac-f066b4aea38e))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "Enable53") (unit 1)
         )
@@ -6501,7 +6025,7 @@
     (pin "1" (uuid 8eaa8c48-764f-45f3-b352-d14f9832bd22))
     (pin "2" (uuid e85c5017-48eb-417d-97ef-b61a5e2e3309))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "Enable31") (unit 1)
         )
@@ -6526,7 +6050,7 @@
     )
     (pin "1" (uuid a928dfc1-3728-457f-98a4-ffd3b63ec94b))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "#PWR012") (unit 1)
         )
@@ -6551,7 +6075,7 @@
     )
     (pin "1" (uuid fc9a7c83-821b-4345-8a9e-a10ca6d3a80c))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "#PWR060") (unit 1)
         )
@@ -6577,7 +6101,7 @@
     (pin "1" (uuid 0292acd7-4c31-4153-835f-e9665a318626))
     (pin "2" (uuid bc8fbd32-1305-4cd9-bc52-63bc5f4ca55c))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "R8") (unit 1)
         )
@@ -6617,34 +6141,9 @@
     (pin "3" (uuid 6fee59f0-9070-48fa-8aea-9d05bd780dfa))
     (pin "4" (uuid 8f6be200-f808-493c-9051-1f3e72094c28))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "J4") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "power:GND") (at 148.59 247.65 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid 70acbfcb-4bb4-45d8-b008-3f7f6eeb8bb0)
-    (property "Reference" "#PWR029" (at 154.94 247.65 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Value" "GND" (at 146.05 250.19 90)
-      (effects (font (size 1.27 1.27)) (justify right))
-    )
-    (property "Footprint" "" (at 148.59 247.65 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 148.59 247.65 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 8026f1f2-1ee7-458a-ac55-cd94876fd74c))
-    (instances
-      (project "franzininho_lab"
-        (path "/51ca0299-91f3-4552-9496-d5578a620793"
-          (reference "#PWR029") (unit 1)
         )
       )
     )
@@ -6669,34 +6168,9 @@
     (pin "2" (uuid 54aec48c-8e20-4f79-8fc6-2914d6e01489))
     (pin "3" (uuid aea4f443-00c3-453a-8178-2ac0aaad8f56))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "Q1") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "power:GND") (at 85.09 222.25 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid 7543c481-ebf2-4880-a36c-ea8f07da815f)
-    (property "Reference" "#PWR019" (at 91.44 222.25 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Value" "GND" (at 82.55 224.79 90)
-      (effects (font (size 1.27 1.27)) (justify right))
-    )
-    (property "Footprint" "" (at 85.09 222.25 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 85.09 222.25 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 878783b8-561c-4304-94a4-da601a805f18))
-    (instances
-      (project "franzininho_lab"
-        (path "/51ca0299-91f3-4552-9496-d5578a620793"
-          (reference "#PWR019") (unit 1)
         )
       )
     )
@@ -6720,7 +6194,7 @@
     (pin "1" (uuid af1f604a-4d6c-4fd9-a6c2-3a66865bb5a9))
     (pin "2" (uuid 14c29618-db26-4086-a56f-900c9d01adc9))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "R29") (unit 1)
         )
@@ -6746,7 +6220,7 @@
     (pin "1" (uuid dcc54413-c46a-4887-8e80-10caa4c20054))
     (pin "2" (uuid 5f3190e3-f3f7-4d36-8d1f-e64fe79dc2ae))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "EnableB0") (unit 1)
         )
@@ -6772,7 +6246,7 @@
     (pin "1" (uuid ebe89bf1-e672-4132-b5b0-f4632a7a0ed6))
     (pin "2" (uuid fbab1b26-034a-454a-b21a-97a4ff7d74f1))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "EnableC1") (unit 1)
         )
@@ -6806,7 +6280,7 @@
     (pin "8" (uuid 07ef3c21-3dfa-4904-9a0d-4864f525a1cd))
     (pin "9" (uuid 2e06e9ea-479a-4b66-92d2-bf74e40b98d8))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "U2") (unit 1)
         )
@@ -6831,7 +6305,7 @@
     )
     (pin "1" (uuid 2e6d6476-ca0d-4dfa-98ce-7b5e94ae8c12))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "#PWR038") (unit 1)
         )
@@ -6859,7 +6333,7 @@
     (pin "3" (uuid 9b30135c-1f93-44a6-9f7b-4de51308b56c))
     (pin "4" (uuid 6b8c20b6-4583-4f9a-86a8-21e0b626b084))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "D5") (unit 1)
         )
@@ -6885,7 +6359,7 @@
     (pin "1" (uuid 42e3f210-959f-4035-ad81-90c3c0c829cc))
     (pin "2" (uuid 19b9ef5e-aff6-440e-9906-fb0db4d5d65c))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "EnableE2") (unit 1)
         )
@@ -6910,7 +6384,7 @@
     )
     (pin "1" (uuid ee3c686f-c107-4dca-898e-bef195f26c20))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "#PWR051") (unit 1)
         )
@@ -6936,7 +6410,7 @@
     (pin "1" (uuid 173c80dd-4310-4e62-9230-09cd7279ac9c))
     (pin "2" (uuid dcc3c7df-f3ec-4a3e-ab51-b32ed2b21bec))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "Enable51") (unit 1)
         )
@@ -6964,7 +6438,7 @@
     (pin "3" (uuid 5e13f0f5-c50d-411e-9570-c8b76787cfcb))
     (pin "4" (uuid 69b1fb8c-a918-47a5-8335-62fcedc963fa))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "Jumpers1") (unit 1)
         )
@@ -6990,7 +6464,7 @@
     (pin "1" (uuid c27221a7-86c1-46b1-9adc-59c30f872fcd))
     (pin "2" (uuid cecf751e-bd0a-4b83-a668-41019f827770))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "EnableA6") (unit 1)
         )
@@ -7016,35 +6490,9 @@
     (pin "1" (uuid c9c5ff03-9687-415a-8633-ecadd9eae8c3))
     (pin "2" (uuid 87356c90-b6a3-44d2-8c98-5ff98987ff22))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "D3") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "Device:R") (at 81.28 236.22 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid 90230eb2-2c8e-46b2-a070-55ea6e9517fe)
-    (property "Reference" "R18" (at 81.28 237.49 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Value" "R" (at 82.5499 233.68 0)
-      (effects (font (size 1.27 1.27)) (justify left) hide)
-    )
-    (property "Footprint" "Resistor_SMD:R_0805_2012Metric" (at 81.28 237.998 90)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 81.28 236.22 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid c04238c8-078b-4c32-8e89-271e84e93d6c))
-    (pin "2" (uuid 9f8e292c-79e7-47fd-b256-662de0f4f535))
-    (instances
-      (project "franzininho_lab"
-        (path "/51ca0299-91f3-4552-9496-d5578a620793"
-          (reference "R18") (unit 1)
         )
       )
     )
@@ -7068,7 +6516,7 @@
     (pin "1" (uuid 0f7e574a-aa27-490e-a381-b31a9e93c892))
     (pin "2" (uuid 526db67f-9f2d-44ca-9755-1e15b89c1c6a))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "C1") (unit 1)
         )
@@ -7093,7 +6541,7 @@
     )
     (pin "1" (uuid f410e1b3-1bf2-49ab-9eca-65eb0b6d06a8))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "#PWR0113") (unit 1)
         )
@@ -7119,7 +6567,7 @@
     (pin "1" (uuid 75c51231-4c90-4024-8823-02e91f216a47))
     (pin "2" (uuid 7ceb34c6-2ee6-4de4-964c-7da50491cbf9))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "D1") (unit 1)
         )
@@ -7145,7 +6593,7 @@
     (pin "1" (uuid 55e48cf3-f9d2-4bec-8b60-a2013bd5498f))
     (pin "2" (uuid 1469a9d3-d031-47eb-9c28-6bf795a01ac8))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "R12") (unit 1)
         )
@@ -7171,7 +6619,7 @@
     (pin "1" (uuid 64f9e580-865a-402c-9af6-c3e2270b7913))
     (pin "2" (uuid dd2e8758-b88b-40d5-bfd2-c674c8087108))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "EnableAA1") (unit 1)
         )
@@ -7197,7 +6645,7 @@
     (pin "1" (uuid 528e32df-c282-4136-8329-5cb8dffcc45a))
     (pin "2" (uuid eb428dc2-1511-47c2-9997-5d9269b31bf0))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "Enable32") (unit 1)
         )
@@ -7223,35 +6671,9 @@
     (pin "1" (uuid c4227f7e-f26a-430c-9252-9b616caa4fc9))
     (pin "2" (uuid 4fe591b5-07de-4e00-a79f-abeed7a84fa3))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "Enable3A1") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "Device:R") (at 115.57 234.95 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid a14c7980-6633-4a1a-b94a-f057bd3d46e9)
-    (property "Reference" "R23" (at 115.57 236.22 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Value" "R" (at 116.8399 232.41 0)
-      (effects (font (size 1.27 1.27)) (justify left) hide)
-    )
-    (property "Footprint" "Resistor_SMD:R_0805_2012Metric" (at 115.57 236.728 90)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 115.57 234.95 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 13c1ffda-1429-4172-b831-d34723d766b5))
-    (pin "2" (uuid cb5f6e14-ef83-4dab-9890-ea28e717890b))
-    (instances
-      (project "franzininho_lab"
-        (path "/51ca0299-91f3-4552-9496-d5578a620793"
-          (reference "R23") (unit 1)
         )
       )
     )
@@ -7275,7 +6697,7 @@
     (pin "1" (uuid 610ea112-0f79-4ed8-ae7e-23f5a9ce4869))
     (pin "2" (uuid 68fabc46-40a8-44a8-8679-538b41992f99))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "EnableC0") (unit 1)
         )
@@ -7301,7 +6723,7 @@
     (pin "1" (uuid 1baa675b-8b46-4bc3-ae98-dd8d15ebb010))
     (pin "2" (uuid 0fc3b726-3106-4f4d-b471-81eb826ea070))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "EnableDC1") (unit 1)
         )
@@ -7327,7 +6749,7 @@
     (pin "1" (uuid 352f9828-81d7-4556-984b-b237e0574e48))
     (pin "2" (uuid c393d00e-ca57-4b0b-b47d-969d65742b46))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "Enable39") (unit 1)
         )
@@ -7355,7 +6777,7 @@
     (pin "3" (uuid 8f685586-0ee6-4112-8f6c-24fbbb49a188))
     (pin "4" (uuid 910cf447-758a-4bce-95fb-2ef7af193153))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "SW12") (unit 1)
         )
@@ -7383,7 +6805,7 @@
     (pin "3" (uuid 12ae0031-a2cb-4b55-a0dc-98fe0ece244c))
     (pin "4" (uuid 83b6c72d-5e99-443e-a247-5dcf51290223))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "SW18") (unit 1)
         )
@@ -7411,7 +6833,7 @@
     (pin "3" (uuid dc75eb51-43c9-448b-af6a-1129ffaee913))
     (pin "4" (uuid 0548de2c-1f11-4248-ae92-386e35dae8a5))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "SW2") (unit 1)
         )
@@ -7475,7 +6897,7 @@
     (pin "8" (uuid 3775a71a-3adf-4ab3-9407-5cdf59d3e712))
     (pin "9" (uuid 091c86eb-7a29-4a2e-b5f5-44e381b2e549))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "U3") (unit 1)
         )
@@ -7501,7 +6923,7 @@
     (pin "1" (uuid 8d5c31b8-5012-4386-aa83-1367eab3bc2a))
     (pin "2" (uuid dbf122c7-d4a2-4c64-a258-7f51a6316eac))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "D4") (unit 1)
         )
@@ -7529,35 +6951,9 @@
     (pin "3" (uuid 04588e7c-ddcf-4085-aa56-207f8dbe27bb))
     (pin "4" (uuid f4eb3ee4-5b51-4f8b-8f68-9005b8b89c72))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "SW7") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "Device:R") (at 49.53 207.01 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid ad16e187-e2bb-490e-9bbd-08a35b6b7944)
-    (property "Reference" "R13" (at 49.53 208.28 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Value" "R" (at 50.7999 204.47 0)
-      (effects (font (size 1.27 1.27)) (justify left) hide)
-    )
-    (property "Footprint" "Resistor_SMD:R_0805_2012Metric" (at 49.53 208.788 90)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 49.53 207.01 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 0378aa53-ac0f-48b1-a775-4e11a62d6f23))
-    (pin "2" (uuid 76dd876b-1689-47a6-bb47-7ede78fe9e7a))
-    (instances
-      (project "franzininho_lab"
-        (path "/51ca0299-91f3-4552-9496-d5578a620793"
-          (reference "R13") (unit 1)
         )
       )
     )
@@ -7581,7 +6977,7 @@
     (pin "1" (uuid 3a79dc87-91a7-4620-a7bc-f64821fc7eb3))
     (pin "2" (uuid 7ca2437a-4144-4aa1-9bee-39e3c25b66b3))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "Enable35") (unit 1)
         )
@@ -7607,7 +7003,7 @@
     (pin "1" (uuid cf6f4dbf-4917-4e18-9e3a-169998573842))
     (pin "2" (uuid 49d8d9a5-6da9-4333-a400-cadbc1605544))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "R5") (unit 1)
         )
@@ -7633,7 +7029,7 @@
     (pin "1" (uuid 50f1b53a-0adc-4564-84b1-2db7948cb8f4))
     (pin "2" (uuid d41e352f-4d7d-4658-aaf9-ce3128826798))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "EnableE6") (unit 1)
         )
@@ -7659,7 +7055,7 @@
     (pin "1" (uuid 9718190b-f0bb-4d19-8394-856572f2356d))
     (pin "2" (uuid af6bb52c-7ea7-4d27-af0a-5d1bcfa7e097))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "LDR1") (unit 1)
         )
@@ -7684,34 +7080,9 @@
     )
     (pin "1" (uuid d7cec744-1d2f-4612-909d-a41005100a9f))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "#PWR064") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "power:GND") (at 119.38 234.95 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid b4139614-9828-47ed-bb55-8b40790b6863)
-    (property "Reference" "#PWR025" (at 125.73 234.95 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Value" "GND" (at 116.84 237.49 90)
-      (effects (font (size 1.27 1.27)) (justify right))
-    )
-    (property "Footprint" "" (at 119.38 234.95 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 119.38 234.95 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid a7651fd8-2f6a-41e1-8cc9-a51a63c0c0fd))
-    (instances
-      (project "franzininho_lab"
-        (path "/51ca0299-91f3-4552-9496-d5578a620793"
-          (reference "#PWR025") (unit 1)
         )
       )
     )
@@ -7735,7 +7106,7 @@
     (pin "1" (uuid 7fecd0ad-1d91-4edb-bfb6-4a36e12c8487))
     (pin "2" (uuid b6ea7463-e87d-4ab7-9e65-5e4735fc1085))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "EnableB5") (unit 1)
         )
@@ -7761,34 +7132,9 @@
     (pin "1" (uuid 4c13c9ac-fd03-4d18-b187-95ad0f7e5767))
     (pin "2" (uuid 16fbe499-850f-4c59-9aef-b525f7a0ee6e))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "EnableDD1") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "power:GND") (at 119.38 250.19 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid b5b337e8-730e-4368-b833-e20132505d92)
-    (property "Reference" "#PWR026" (at 125.73 250.19 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Value" "GND" (at 116.84 252.73 90)
-      (effects (font (size 1.27 1.27)) (justify right))
-    )
-    (property "Footprint" "" (at 119.38 250.19 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 119.38 250.19 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid dc6cafb2-a9f1-4846-bcdf-d425a941c7f5))
-    (instances
-      (project "franzininho_lab"
-        (path "/51ca0299-91f3-4552-9496-d5578a620793"
-          (reference "#PWR026") (unit 1)
         )
       )
     )
@@ -7812,7 +7158,7 @@
     (pin "1" (uuid 8c688210-a039-4973-b7a9-5a98980bd6db))
     (pin "2" (uuid 7fa2c762-c146-4b0b-aceb-539b11ed9a70))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "Enable33") (unit 1)
         )
@@ -7837,7 +7183,7 @@
     )
     (pin "1" (uuid ca9b8482-4abd-4c9b-8dff-64096be62af7))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "#PWR0101") (unit 1)
         )
@@ -7862,35 +7208,9 @@
     )
     (pin "1" (uuid 7fb379a7-01f5-4b58-b2fc-5fe9e1307432))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "#PWR040") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "Device:R") (at 146.05 205.74 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid b7ca267a-c2f0-4ad1-84ac-dce37f77d975)
-    (property "Reference" "R28" (at 146.05 207.01 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Value" "R" (at 147.3199 203.2 0)
-      (effects (font (size 1.27 1.27)) (justify left) hide)
-    )
-    (property "Footprint" "Resistor_SMD:R_0805_2012Metric" (at 146.05 207.518 90)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 146.05 205.74 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 22f65af1-e958-478b-a503-d851cef39747))
-    (pin "2" (uuid 81f64244-76a6-4ff7-a81d-900c063ff57d))
-    (instances
-      (project "franzininho_lab"
-        (path "/51ca0299-91f3-4552-9496-d5578a620793"
-          (reference "R28") (unit 1)
         )
       )
     )
@@ -7932,7 +7252,7 @@
     (pin "8" (uuid e5b5a418-da17-42a1-a39f-5fde0515f6ec))
     (pin "9" (uuid 0c920cfb-e4c5-424f-8975-1701bf9dc9ca))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "J2") (unit 1)
         )
@@ -7957,7 +7277,7 @@
     )
     (pin "1" (uuid e4e7a7bf-5968-4330-954e-84a907cf374b))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "#PWR0114") (unit 1)
         )
@@ -7983,7 +7303,7 @@
     (pin "1" (uuid 9525184c-d1ce-4e35-8b3d-17811c6afb53))
     (pin "2" (uuid 805f2891-9b09-4d22-960f-e48dda1b1d4c))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "R10") (unit 1)
         )
@@ -8008,7 +7328,7 @@
     )
     (pin "1" (uuid 6c7fc1b6-4219-4dc7-8ce0-0981b2101922))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "#PWR034") (unit 1)
         )
@@ -8048,7 +7368,7 @@
     (pin "3" (uuid 651bd3d9-46dd-4d9d-9eb6-6849e6b137db))
     (pin "4" (uuid d439eacf-c96e-46f7-9caf-120121ca0478))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "J3") (unit 1)
         )
@@ -8073,7 +7393,7 @@
     )
     (pin "1" (uuid c75f5afe-4dfd-4fdc-a514-7ef79848a234))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "#PWR033") (unit 1)
         )
@@ -8101,7 +7421,7 @@
     (pin "3" (uuid c8d78e18-0ee7-4829-a07c-a22881a4597f))
     (pin "4" (uuid 410449ca-60a4-45e9-9588-c9f21daa474e))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "Tela1") (unit 1)
         )
@@ -8127,7 +7447,7 @@
     (pin "1" (uuid d44da0b0-81d3-467a-8a71-17ffb8b38fdd))
     (pin "2" (uuid 512cb4c9-8a98-4019-a688-f0b71143fad7))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "EnableBA1") (unit 1)
         )
@@ -8153,7 +7473,7 @@
     (pin "1" (uuid b3585ae9-704e-4015-b684-5698795e04fe))
     (pin "2" (uuid 8fe7a41e-a5b7-4f22-bf6d-b2783ab1ed95))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "Enable34") (unit 1)
         )
@@ -8181,7 +7501,7 @@
     (pin "3" (uuid e7bc15cd-16ce-4ec2-ae8e-2036ab9e1ca0))
     (pin "4" (uuid c421a7ad-1ada-4092-a848-4b6e256450ef))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "SW15") (unit 1)
         )
@@ -8207,7 +7527,7 @@
     (pin "1" (uuid 8d2afb1d-1845-4cb4-9ddd-10fdd98ae6c4))
     (pin "2" (uuid 07f634e5-5ec6-4ea4-b3c6-97ce1d01261c))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "EnableE4") (unit 1)
         )
@@ -8233,7 +7553,7 @@
     (pin "1" (uuid f047829e-d46e-4eff-b9ba-46929b74af02))
     (pin "2" (uuid 265493a4-a63c-46bb-94b4-35e042e165b2))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "EnableD4") (unit 1)
         )
@@ -8258,7 +7578,7 @@
     )
     (pin "1" (uuid f9270e30-74fb-416f-ae9d-c38903ea19a4))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "#PWR0109") (unit 1)
         )
@@ -8286,7 +7606,7 @@
     (pin "3" (uuid 610967f5-8ade-473e-84e4-d5ca6cc25e52))
     (pin "4" (uuid 8ca8f1d0-f147-4eed-8d77-ecd49de236a5))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "SW20") (unit 1)
         )
@@ -8312,7 +7632,7 @@
     (pin "1" (uuid 1f31e39e-906b-41e6-ad9e-da8076d050d9))
     (pin "2" (uuid bc0a11a5-8118-4a2d-9470-740b1e796b14))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "Enable37") (unit 1)
         )
@@ -8338,7 +7658,7 @@
     (pin "1" (uuid 157e472a-e0c7-4fb3-81f8-c0ce986e50d4))
     (pin "2" (uuid c6909432-161b-40da-a166-509494fed2da))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "Enable38") (unit 1)
         )
@@ -8364,7 +7684,7 @@
     (pin "1" (uuid cbf58e5f-b48e-4129-b21c-6d7c6c45c4b0))
     (pin "2" (uuid 3e166699-29b8-401c-886f-c364a42ee2e8))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "Enable54") (unit 1)
         )
@@ -8389,7 +7709,7 @@
     )
     (pin "1" (uuid 84bb5447-8814-49a2-bf8b-07e67e107674))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "#PWR0116") (unit 1)
         )
@@ -8415,7 +7735,7 @@
     (pin "1" (uuid 3c38c421-1af9-411e-b040-1b18988ce0e0))
     (pin "2" (uuid e1d288b8-934a-4e90-98c9-25c57f436fad))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "R7") (unit 1)
         )
@@ -8441,7 +7761,7 @@
     (pin "1" (uuid e44d1724-dbf1-4436-932e-dcd745fb8dd3))
     (pin "2" (uuid 9225a58b-1da0-4373-9b1e-92a08610c3a1))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "EnableD8") (unit 1)
         )
@@ -8467,7 +7787,7 @@
     (pin "1" (uuid 3e950cb8-db4c-4286-a726-2e92c1c06787))
     (pin "2" (uuid 6addd624-4687-4c88-8ff8-20119dd300a7))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "EnableAC1") (unit 1)
         )
@@ -8495,7 +7815,7 @@
     (pin "3" (uuid df31c2a4-a54b-4563-91e5-5618d4c5a64d))
     (pin "4" (uuid 08edd1c3-d57f-4cdd-9604-eadf8ebeb1b9))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "SW9") (unit 1)
         )
@@ -8523,60 +7843,9 @@
     (pin "3" (uuid 6e47bcf7-96bb-4f89-8a80-1262a64dfd3d))
     (pin "4" (uuid 09e47d12-d1e2-4eb3-8fc1-ff0ffa542075))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "SW4") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "Device:R") (at 144.78 247.65 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid cd783759-caeb-432d-940d-3258c7de368d)
-    (property "Reference" "R27" (at 144.78 248.92 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Value" "R" (at 146.0499 245.11 0)
-      (effects (font (size 1.27 1.27)) (justify left) hide)
-    )
-    (property "Footprint" "Resistor_SMD:R_0805_2012Metric" (at 144.78 249.428 90)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 144.78 247.65 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 6db634b9-e57d-4e44-989d-2d18e58de7d1))
-    (pin "2" (uuid e216e31b-8592-480a-b843-2c3d02d8e77a))
-    (instances
-      (project "franzininho_lab"
-        (path "/51ca0299-91f3-4552-9496-d5578a620793"
-          (reference "R27") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "power:GND") (at 148.59 233.68 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid ce293522-0bb3-4abc-95d8-a23cb9686abe)
-    (property "Reference" "#PWR028" (at 154.94 233.68 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Value" "GND" (at 146.05 236.22 90)
-      (effects (font (size 1.27 1.27)) (justify right))
-    )
-    (property "Footprint" "" (at 148.59 233.68 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 148.59 233.68 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid f6cf011c-44c6-426f-96a8-0d627d376a1f))
-    (instances
-      (project "franzininho_lab"
-        (path "/51ca0299-91f3-4552-9496-d5578a620793"
-          (reference "#PWR028") (unit 1)
         )
       )
     )
@@ -8601,7 +7870,7 @@
     (pin "2" (uuid 9f3054eb-8c71-45d1-bd31-2e219d590317))
     (pin "3" (uuid b422bd08-6746-45cc-908d-25d8fe6a1fc8))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "M1") (unit 1)
         )
@@ -8626,7 +7895,7 @@
     )
     (pin "1" (uuid f8acbd18-e8c8-4b97-8520-ef8365b21eda))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "#PWR011") (unit 1)
         )
@@ -8652,7 +7921,7 @@
     (pin "1" (uuid 3dacffd0-53e1-4646-9270-a497d74fcf35))
     (pin "2" (uuid bceabed9-4a89-430b-aca9-20a8bee1e76e))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "ResistorExterno1") (unit 1)
         )
@@ -8677,7 +7946,7 @@
     )
     (pin "1" (uuid 4c924555-5966-4e11-8903-119410105da6))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "#PWR047") (unit 1)
         )
@@ -8702,7 +7971,7 @@
     )
     (pin "1" (uuid e5e12613-cad7-4efd-acda-dc7103e45a5a))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "#PWR0112") (unit 1)
         )
@@ -8727,35 +7996,9 @@
     )
     (pin "1" (uuid 4de1b0cb-c10c-4809-9b28-f38d8a67932d))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "#PWR0102") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "Device:R") (at 83.82 208.28 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid db502f18-d962-438e-81c2-502739b9dd6d)
-    (property "Reference" "R20" (at 83.82 209.55 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Value" "R" (at 85.0899 205.74 0)
-      (effects (font (size 1.27 1.27)) (justify left) hide)
-    )
-    (property "Footprint" "Resistor_SMD:R_0805_2012Metric" (at 83.82 210.058 90)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 83.82 208.28 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 3de652c4-8d2f-44c1-9281-59eea693f8eb))
-    (pin "2" (uuid 2ed8d900-2108-4aa7-9ae6-b89cc95a8bb1))
-    (instances
-      (project "franzininho_lab"
-        (path "/51ca0299-91f3-4552-9496-d5578a620793"
-          (reference "R20") (unit 1)
         )
       )
     )
@@ -8778,7 +8021,7 @@
     )
     (pin "1" (uuid 6442c732-aa89-4f2e-b445-3407e6d450ab))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "#PWR043") (unit 1)
         )
@@ -8804,7 +8047,7 @@
     (pin "1" (uuid b01c4bc6-1001-4122-b613-c3bf44ceb1b4))
     (pin "2" (uuid f02b3d31-0706-4648-a8fb-dc87bfbfe713))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "EnableA3") (unit 1)
         )
@@ -8848,7 +8091,7 @@
     (pin "8" (uuid b5e3ea4f-a17a-4f12-8e69-7058784bec2a))
     (pin "9" (uuid 96c63e93-20f9-4ad7-a3d8-b86316bd9db0))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "J1") (unit 1)
         )
@@ -8874,7 +8117,7 @@
     (pin "1" (uuid 66885b12-4473-4227-9953-142895e85a62))
     (pin "2" (uuid 4810b86b-bcc7-45fa-91bd-15c4ee287aa7))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "EnableA7") (unit 1)
         )
@@ -8900,7 +8143,7 @@
     (pin "1" (uuid 06dfc10b-3a64-41fe-affe-43fdc42b9275))
     (pin "2" (uuid 1041c785-fa5e-4037-b6ce-1d3fbbd95b1e))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "EnableA8") (unit 1)
         )
@@ -8925,7 +8168,7 @@
     )
     (pin "1" (uuid 702db1d1-5009-4ac3-92d8-884491af952c))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "#PWR041") (unit 1)
         )
@@ -8950,7 +8193,7 @@
     )
     (pin "1" (uuid 213827e6-50d0-4a3d-9356-fe4b2ccc4296))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "#PWR0110") (unit 1)
         )
@@ -8978,7 +8221,7 @@
     (pin "3" (uuid 09674f5a-7a73-4404-9128-b9908d098061))
     (pin "4" (uuid 5ef04bd4-d301-4fea-85ae-5cbc00350a5e))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "SW1") (unit 1)
         )
@@ -9006,7 +8249,7 @@
     (pin "3" (uuid 5dc24b7c-43e6-4da8-9755-7641d0e22f2d))
     (pin "4" (uuid d7a6c610-8a85-4d19-8585-10652775b7c8))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "SW8") (unit 1)
         )
@@ -9032,7 +8275,7 @@
     (pin "1" (uuid ddf7e8b6-c8d7-41bb-a425-7d0b22ffddae))
     (pin "2" (uuid 4b7709ce-e51a-4b1f-965a-dc2dc237006b))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "EnableA1") (unit 1)
         )
@@ -9057,7 +8300,7 @@
     )
     (pin "1" (uuid 268b966d-4e25-483a-b3f9-214f4e075fc9))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "#PWR04") (unit 1)
         )
@@ -9085,7 +8328,7 @@
     (pin "3" (uuid 7b0a1673-829f-4906-87c3-37d4ddde443e))
     (pin "4" (uuid 886abd42-c671-44f9-861e-19d618d7fc21))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "U1") (unit 1)
         )
@@ -9110,7 +8353,7 @@
     )
     (pin "1" (uuid d9111bf9-e557-4b0a-b70a-0ddb6cfdf60c))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "#PWR014") (unit 1)
         )
@@ -9136,7 +8379,7 @@
     (pin "1" (uuid 850918c2-8246-43e1-9aaf-edfbcac3f31d))
     (pin "2" (uuid 2fd9bfe4-1d5b-4441-b887-ff874cf85841))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "EnableB1") (unit 1)
         )
@@ -9162,7 +8405,7 @@
     (pin "1" (uuid 43bad32d-771d-4dea-b19b-b7590d8880b1))
     (pin "2" (uuid 94fb8f29-aaf1-4881-a189-0b0a05b92a2a))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "EnableAB1") (unit 1)
         )
@@ -9188,7 +8431,7 @@
     (pin "1" (uuid 56b8da34-0374-4d1e-be33-94fadedca84b))
     (pin "2" (uuid faad36f1-1cd2-4a29-82db-47645f2e98f2))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "EnableD1") (unit 1)
         )
@@ -9214,7 +8457,7 @@
     (pin "1" (uuid d38018c6-40ef-4fbf-80cd-c290b19faa0e))
     (pin "2" (uuid 89ce9c7a-3315-4b6a-9bab-91eefaa13f01))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "EnableD2") (unit 1)
         )
@@ -9240,7 +8483,7 @@
     (pin "1" (uuid 96c2198b-c15a-4a54-951a-46aa73420f07))
     (pin "2" (uuid e1289bf5-1b2f-4978-a2b4-d5593ac3bf21))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "R11") (unit 1)
         )
@@ -9265,7 +8508,7 @@
     )
     (pin "1" (uuid 5d2c0647-4181-4566-82b9-3fcd167309dc))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "#PWR039") (unit 1)
         )
@@ -9293,7 +8536,7 @@
     (pin "3" (uuid 7dda527e-3934-4ae2-a80e-5b14cefe8d20))
     (pin "4" (uuid 0080b667-3974-44c4-8d1a-9f4ebf7deeaf))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "SW17") (unit 1)
         )
@@ -9318,7 +8561,7 @@
     )
     (pin "1" (uuid 782e61b5-b04d-4973-a64c-799d184fd5e0))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "#PWR013") (unit 1)
         )
@@ -9344,7 +8587,7 @@
     (pin "1" (uuid 998569da-68a0-4dd2-990a-463cf123d2ed))
     (pin "2" (uuid 2f3277a2-970a-46cd-bfb6-77cf5f2c6915))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "Enable36") (unit 1)
         )
@@ -9370,34 +8613,9 @@
     (pin "1" (uuid 5cff8e1c-5d71-430e-bfff-c17917fe60d0))
     (pin "2" (uuid 343f7637-27f1-4ecc-8529-beb3d6a3efd6))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "EnableD3") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "power:GND") (at 118.11 220.98 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid f4fdffa0-4577-4e26-895a-e57caf471513)
-    (property "Reference" "#PWR024" (at 124.46 220.98 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Value" "GND" (at 115.57 223.52 90)
-      (effects (font (size 1.27 1.27)) (justify right))
-    )
-    (property "Footprint" "" (at 118.11 220.98 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 118.11 220.98 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 3ed531ba-28d1-450f-8401-5d3a4b03c951))
-    (instances
-      (project "franzininho_lab"
-        (path "/51ca0299-91f3-4552-9496-d5578a620793"
-          (reference "#PWR024") (unit 1)
         )
       )
     )
@@ -9443,7 +8661,7 @@
     (pin "V2" (uuid a2035858-7a1d-46bf-a147-ca3696dece92))
     (pin "V3" (uuid 60487387-21c0-476c-80c8-70aa39897fd8))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "U4") (unit 1)
         )
@@ -9469,7 +8687,7 @@
     (pin "1" (uuid 1a754ce7-5296-40b2-97b4-c0e69e3ca509))
     (pin "2" (uuid 9f8aa2bb-61a5-4839-b1f1-c59d57610f28))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "EnableDA1") (unit 1)
         )
@@ -9495,7 +8713,7 @@
     (pin "1" (uuid 69df3456-5bfe-4956-aed4-7d802c21fd78))
     (pin "2" (uuid 34c8c56f-166d-4a7f-a313-9e131a355e9a))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "EnableE5") (unit 1)
         )
@@ -9521,34 +8739,9 @@
     (pin "1" (uuid faf69826-bfe2-4d7b-aa89-549faa7334f5))
     (pin "2" (uuid c39d8800-888b-4a4d-9a1a-250b6a2d6138))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "EnableBB1") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "power:GND") (at 87.63 208.28 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid fb4c4e83-cd10-4e6a-91ca-679c4b11e4e5)
-    (property "Reference" "#PWR021" (at 93.98 208.28 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Value" "GND" (at 85.09 210.82 90)
-      (effects (font (size 1.27 1.27)) (justify right))
-    )
-    (property "Footprint" "" (at 87.63 208.28 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 87.63 208.28 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 9cd04e83-8cd6-401d-8548-290ddbc7d507))
-    (instances
-      (project "franzininho_lab"
-        (path "/51ca0299-91f3-4552-9496-d5578a620793"
-          (reference "#PWR021") (unit 1)
         )
       )
     )
@@ -9571,7 +8764,7 @@
     )
     (pin "1" (uuid ab458333-c6b6-49bf-9b64-9de673208bc3))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "#PWR01") (unit 1)
         )
@@ -9599,34 +8792,9 @@
     (pin "3" (uuid 53893bdb-8b7e-408c-9d75-896c4583db03))
     (pin "4" (uuid 567c9429-bade-47b1-8e50-4052d90bb473))
     (instances
-      (project "franzininho_lab"
+      (project "laboratorio-SEIoT-Franzininho-Wifi"
         (path "/51ca0299-91f3-4552-9496-d5578a620793"
           (reference "SW3") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "power:GND") (at 52.07 234.95 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid ff708f54-3f27-4b7f-91fe-69b592ba8635)
-    (property "Reference" "#PWR017" (at 58.42 234.95 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Value" "GND" (at 49.53 237.49 90)
-      (effects (font (size 1.27 1.27)) (justify right))
-    )
-    (property "Footprint" "" (at 52.07 234.95 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 52.07 234.95 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 145c0e0f-f099-4e02-ae88-1f1d071a7aad))
-    (instances
-      (project "franzininho_lab"
-        (path "/51ca0299-91f3-4552-9496-d5578a620793"
-          (reference "#PWR017") (unit 1)
         )
       )
     )
