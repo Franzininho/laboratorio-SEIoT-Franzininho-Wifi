@@ -10,6 +10,8 @@ Esse projeto tem o intuito de auxiliar no ensino de programação utilizando pla
 
 Sendo assim, utilizando a facilidade de conexão de periféridos da placa é possível reduzir drásticamente o tempo despendido para conexões eletrônicas, focando no objetivo da oficina, que é a programação.
 
+Esse projeto está sob a licença [CERN-OHL-S v2](https://ohwr.org/cern_ohl_s_v2.txt)
+
 ## Como ativar os periféricos?
 
 Os periféricos utilizados na placa são ativados através de pinos de ativação. Esses pinos são compostos por dois pinos macho que devem ser conectados. Um desses pinos macho está conectado ao socket da placa e o outro a um pino do componente eletrônico. Dessa forma, o jumper fecha a conexão entre o componente e a placa microcontrolada. Uma exemplo desse tipo de conexão está evidenciado na figura abaixo pelas linhas verdes:
