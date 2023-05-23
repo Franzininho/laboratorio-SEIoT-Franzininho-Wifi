@@ -26,7 +26,7 @@ Além dos pinos de ativação de sinal que conectam o componente ao socket da pl
 
 ## Codificação dos pinos de ativação
 
-Devido à quantidade de pinos de ativação usada na placa, foi preciso desenvolver um sistema de codificação para esses pinos. Esse sistema foi idealizado com cada pino sendo representado por dois algorismos. O primeiro indicando a funcionalidade do pino e o segundo indicando uma numeração do pino. As funções dos primeiros algorismos podem ser vistas abaixo:
+Devido à quantidade de pinos de ativação usada na placa, foi preciso desenvolver um sistema de codificação para esses pinos. Esse sistema foi idealizado com cada pino sendo representado por dois algarismos. O primeiro indicando a funcionalidade do pino e o segundo indicando uma numeração do pino. As funções dos primeiros algarismos podem ser vistas abaixo:
 
 | Letra |                     Significado                      |
 | :---: | :--------------------------------------------------: |
@@ -55,6 +55,10 @@ Buscando aumentar ainda mais a versatilidade do projeto, estão sendo desenvolvi
 
 -   [Arduino Uno](https://github.com/Franzininho/laboratorio-SEIoT-adaptador-arduino)
 
+## Certificação OSHWA
+[![](./imagens/registro.svg)](https://certification.oshwa.org/br000014.html)
+
+[Clique aqui](https://certification.oshwa.org/br000014.html) para acessar
 ---
 
 #### Feito por [LelePG](https://github.com/LelePG)
