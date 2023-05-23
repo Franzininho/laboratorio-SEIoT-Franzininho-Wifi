@@ -8,7 +8,7 @@ O projeto **Laboratório de Sistemas Embarcados e IoT** é um projeto de placa d
 
 Esse projeto tem o intuito de auxiliar no ensino de programação utilizando placas microcontroladas já que muitas vezes nas oficinas de programação com placas microcontroladas é despendido muito tempo para lidar com problemas que vem da manipulação do hardware como utilização da protoabord e realização de conexões. Este tempo muitas vezes acaba prejudicando a atividade já que o tempo onde se foca em fazer as conexões eletrônicas poderia ser melhor aproveitado focando na programação realmente.
 
-Sendo assim, utilizando a facilidade de conexão de periféridos da placa é possível reduzir drásticamente o tempo despendido para conexões eletrônicas, focando no objetivo da oficina, que é a programação.
+Sendo assim, utilizando a facilidade de conexão de periféricos da placa é possível reduzir drásticamente o tempo despendido para conexões eletrônicas, focando no objetivo da oficina, que é a programação.
 
 Esse projeto está sob a licença [CERN-OHL-S v2](https://ohwr.org/cern_ohl_s_v2.txt)
 
@@ -41,7 +41,7 @@ Devido à quantidade de pinos de ativação usada na placa, foi preciso desenvol
 
 O código correspondente a cada pino de ativação foi impresso ao lado desse pino e o mapeamento dos pinos de ativação para os pinos da placa Franzininho Wifi está impresso na placa e também pode ser acessado [clicando aqui](./informacoes/mapeamento.md). Além disso, também foi desenvolvida uma biblioteca para uso em conjunto com a placa que permite o uso dos códigos dos pinos de ativação dentro da programação. [Clique aqui para acessar a **biblioteca laboratorioFW**](https://github.com/Franzininho/biblioteca-laboratorioFW)
 
-A lista dos periféricos disponíveis e dos pinos de ativação necessários para ativar esses periféricos pode ser acessada [clicando aqui](./informacoes/ativacao-perifericos.md). É importante lembrar que além dos periféricos a placa também conta com conectores para sensores e atuadores externos no formato de pinos macho e de conectores Grove.
+A lista dos periféricos disponíveis e dos pinos de ativação necessários para ativar esses periféricos pode ser acessadas [clicando aqui](./informacoes/ativacao-perifericos.md). É importante lembrar que além dos periféricos a placa também conta com conectores para sensores e atuadores externos no formato de pinos macho e de conectores Grove.
 
 ## Como o projeto foi desenvolvido?
 
